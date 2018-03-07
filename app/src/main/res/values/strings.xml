@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Areas, perimetros y volumenes</string>
+    <string name="titulo">Figuras</string>
+    <string name="seleccionar">Seleccione una de las figuras:</string>
+    <string name="cuadro">Cuadro</string>
+    <string name="circulo">Circulo</string>
+    <string name="triangulo">Triangulo</string>
+    <string name="cubo">Cubo</string>
+    <string name="area">Area:</string>
+    <string name="perimetro">Perimetro:</string>
+    <string name="volumen">Volumen:</string>
+</resources>
